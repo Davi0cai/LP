@@ -1,0 +1,6 @@
+Combo 1
+18
+Taco(x2); 
+Hamburguer-a-Dois
+30.6
+Hamburguer(x2); Coca-Cola(x2); 
