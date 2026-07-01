@@ -10,10 +10,10 @@ O **Delivery System** é um sistema completo de gerenciamento de restaurante e d
 - **Controle de Pagamentos:** Suporte a diferentes métodos de pagamento (Dinheiro, Pix, Cartão de Crédito).
 - **Persistência de Dados:** Salvamento e carregamento automático de informações essenciais (cardápio, entregadores e pedidos) utilizando a classe de arquivos "Loader".
 
-Para executar corretamente:
-Código feito para ser executado no VS Code;
-Dados da pasta vscode a colocar em .vscode no projeto dentro do VS Code;
-Makefile deve estar fora das outras pastas;
-Siga as instruções nesse tutorial (https://code.visualstudio.com/docs/cpp/config-mingw) para preparar a máquina para execução;
-Compilação ideal usando ctrl + shift + b, e execução com f5;
-Se compilação der errado, tentar novamente ou usar o f5 parece resolver problemas (in)existentes.
+## Para executar corretamente:
+- Código feito para ser executado no VS Code;
+- Dados da pasta vscode a colocar em .vscode no projeto dentro do VS Code;
+- Makefile deve estar fora das outras pastas;
+- Siga as instruções nesse tutorial (https://code.visualstudio.com/docs/cpp/config-mingw) para preparar a máquina para execução;
+- Compilação ideal usando ctrl + shift + b, e execução com f5;
+- Se compilação der errado, tentar novamente ou usar o f5 parece resolver problemas (in)existentes.
