@@ -1,0 +1,15 @@
+Hamburguer
+12
+Sem Detalhes
+Pizza de Queijo
+30
+Sem Detalhes
+Taco
+10
+Sem Detalhes
+Coca-Cola
+5
+Refrigerante Coca-Cola
+X-Tudo
+18
+Hamburguer com tudo que há direito!

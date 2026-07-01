@@ -1,0 +1,10 @@
+4
+Cliente: Davi (1) | Apelido: Davi
+Local: Rua Doida
+Entregador: Alberto (CPF: 11122233344) | Salário: 1621 | Entregas: 0
+Pedido: Hamburguer(x1) | 12.000000R$
+Sem Detalhes
+Combo 1(x1) | 18.000000R$
+Taco(x2); 
+Dando total: 30.000000
+

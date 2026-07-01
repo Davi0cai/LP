@@ -1,0 +1,12 @@
+Combo 1
+18
+Taco(x2); 
+Hamburguer-a-Dois
+30.6
+Hamburguer(x2); Coca-Cola(x2); 
+Variada Preferência
+39.6
+Hamburguer(x2); Taco(x2); 
+Combo Supremo
+41.4
+X-Tudo(x2); Coca-Cola(x2); 
